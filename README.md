@@ -7,7 +7,7 @@ Issue collection of everything
 TimeLine
 ========
 
-Level A ：ONE week;
+Level A : ONE week;
 
 Level B : TWO weeks;
 
